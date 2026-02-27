@@ -98,7 +98,7 @@
             >;
         };
 
-        layer_2 {
+        asdf {
             bindings = <
 &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans
 &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans
